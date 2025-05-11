@@ -1,3 +1,5 @@
+@SPDX-FileCopyrightText: 2025 Your Company
+@SPDX-License-Identifier: Apache-2.0
 @AccessControl.authorizationCheck: #NOT_REQUIRED
 @EndUserText.label: 'Travel Interface View Entity'
 @Metadata.ignorePropagatedAnnotations: true
