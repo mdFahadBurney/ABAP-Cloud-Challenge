@@ -1,3 +1,6 @@
+* SPDX-FileCopyrightText: 2025 Your Company
+* SPDX-License-Identifier: Apache-2.0
+
 CLASS ztravel_fill_data_892851 DEFINITION
   PUBLIC
   FINAL
